@@ -1,4 +1,4 @@
-# Bulk Email Sender
+# Cold Email Sender
 
 A desktop GUI app that reads a CSV of contacts and sends each one a
 personalized email built from a template.
@@ -130,7 +130,7 @@ The app has four tabs, meant to be used in order:
   emails you can send per day from a single account and may throttle
   or block rapid sending. Keep the delay at 1+ second and avoid
   sending to huge lists from a personal account.
-- **Deliverability:** cold/bulk email to people who haven't opted in
+- **Deliverability:** cold email to people who haven't opted in
   can violate your provider's terms of service and anti-spam laws
   (e.g. CAN-SPAM, GDPR) depending on your audience and jurisdiction —
   make sure you have a legitimate basis to email each recipient.
